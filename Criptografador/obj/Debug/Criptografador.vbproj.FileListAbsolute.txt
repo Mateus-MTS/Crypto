@@ -1,0 +1,12 @@
+C:\Users\LDN\source\repos\Criptografador\Criptografador\bin\Debug\Criptografador.exe.config
+C:\Users\LDN\source\repos\Criptografador\Criptografador\bin\Debug\Criptografador.exe
+C:\Users\LDN\source\repos\Criptografador\Criptografador\bin\Debug\Criptografador.pdb
+C:\Users\LDN\source\repos\Criptografador\Criptografador\bin\Debug\Criptografador.xml
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.vbprojAssemblyReference.cache
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.Resources.resources
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.vbproj.GenerateResource.cache
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.vbproj.CoreCompileInputs.cache
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.exe
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.xml
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.pdb
+C:\Users\LDN\source\repos\Criptografador\Criptografador\obj\Debug\Criptografador.frmCrypto.resources
